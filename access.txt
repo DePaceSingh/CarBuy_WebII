@@ -1,0 +1,13 @@
+## user account
+Username : singh
+Email : singh@gmail.com
+Password : inception
+
+## admin account
+Admin Username : Admin User
+Admin Email : admin@carbuy.gmail.com
+Admin Password : admin123
+
+** MYSQL DATABASE **
+Username : v.je
+Password : v.je
